@@ -1,4 +1,5 @@
-notify user @SteveJPalmer
+notify user @SteveJPalmer - [markdown plugin for WebStorm](http://github.com/nicoulaj/idea-markdown)
+
 - [ ] my task a.
 - [x] my task b.
 - [ ] my task c.
