@@ -14,6 +14,8 @@ can nest __bold & *italic*__
  > quotes,   `< code >`,  ~~strikethrough~~ & ``` highlighted text ```
 
 ---
+:octocat: GitHub autolink www.AudioOrange.com
+
 :paperclip: inline style link [google](https://www.google.com)
 
 :orange_book: reference style link [google link]				
@@ -24,8 +26,8 @@ can nest __bold & *italic*__
   block text      
 ```
 
-Header1 | Header2
------------- | -------------
+Header1 - left aligned | Header2 - Center aligned
+:--- | :---:
 row1 cell 1 | row 1 cell 2
 row2 cell 1 | row 2 cell 2
 ---
@@ -44,13 +46,9 @@ row2 cell 1 | row 2 cell 2
 ---
 :notes::tangerine: AudioOrange emotion icons [emoji-cheat-sheet](emoji-cheat-sheet.com)
 
-Ideas & Questions: :bulb: :question: :grey_question:
+Ideas & Questions: :bulb: :question: :grey_question: &nbsp;&nbsp;&nbsp; Success :thumbsup: :sparkles: :sunglasses: &nbsp;&nbsp;&nbsp; Warnings :bell: :warning: :watch: :no_entry_sign:
 
-Success :thumbsup: :sparkles: :sunglasses: Warnings :bell: :warning: :watch: :no_entry_sign:
-
-Tech: :cd: :floppy_disk: :computer:
-
-Manage:  :orange_book: :paperclip: :date: :file_folder: :open_file_folder: :speech_balloon:
+Tech: :cd: :floppy_disk: :computer: &nbsp;&nbsp;&nbsp; Manage:  :orange_book: :paperclip: :date: :file_folder: :open_file_folder: :speech_balloon:
 
 
 
