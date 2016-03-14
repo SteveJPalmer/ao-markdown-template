@@ -6,8 +6,10 @@ Notify user @SteveJPalmer - [markdown plugin for WebStorm](http://github.com/nic
 - [ ] my task a.
 - [x] my task b.
 - [ ] my task c.
-###### 	to... Heading 6
+
 ***
+###### 	to... Heading 6
+---
 **bold**  or   __bold__ 	   
 *italic*     or  _italic_
 can nest __bold & *italic*__
