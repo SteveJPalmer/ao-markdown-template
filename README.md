@@ -24,8 +24,15 @@ can nest __bold & *italic*__
 [google link]: https://www.google.com
 --- 
 ```
-  this is some   
+  this is standard   
   block text      
+```
+```JAVASCRIPT
+function formatMe() {
+  var name = 'Steve';
+  var res  = [{a=1},{b=2}];
+  console.log('Linguist code formatting.');
+}
 ```
 
 Header1 - left aligned | Header2 - Center aligned
