@@ -1,12 +1,11 @@
-notify user @SteveJPalmer - [markdown plugin for WebStorm](http://github.com/nicoulaj/idea-markdown)
 
+# Heading 1 - :notes::tangerine: ao-markdown-template
+Notify user @SteveJPalmer - [markdown plugin for WebStorm](http://github.com/nicoulaj/idea-markdown)
+
+## 	  Heading 2 - template for creating Markdown (.md) files
 - [ ] my task a.
 - [x] my task b.
 - [ ] my task c.
-
-
-# 		Heading 1 - ao-markdown-template
-## 	  Heading 2 - template for creating Markdown (.md) files
 ###### 	to... Heading 6
 ***
 **bold**  or   __bold__ 	   
@@ -15,11 +14,16 @@ can nest __bold & *italic*__
  > quotes,   `< code >`,  ~~strikethrough~~ & ``` highlighted text ```
 
 ---
-inline style link [google](https://www.google.com)
+:paperclip: inline style link [google](https://www.google.com)
 
-reference style link [google link]				
+:orange_book: reference style link [google link]				
 [google link]: https://www.google.com
 --- 
+```
+  this is some   
+  block text      
+```
+
 Header1 | Header2
 ------------ | -------------
 row1 cell 1 | row 1 cell 2
@@ -33,13 +37,20 @@ row2 cell 1 | row 2 cell 2
 
 ---
 
-
-
 - bullet item A
 - bullet item B
  - nested bullet 
 
+---
+:notes::tangerine: AudioOrange emotion icons [emoji-cheat-sheet](emoji-cheat-sheet.com)
 
+Ideas & Questions: :bulb: :question: :grey_question:
+
+Success :thumbsup: :sparkles: :sunglasses: Warnings :bell: :warning: :watch: :no_entry_sign:
+
+Tech: :cd: :floppy_disk: :computer:
+
+Manage:  :orange_book: :paperclip: :date: :file_folder: :open_file_folder: :speech_balloon:
 
 
 
