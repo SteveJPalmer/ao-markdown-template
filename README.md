@@ -39,7 +39,7 @@ myProfile
 
 ![my profile image](images/Steve-Profile-Thumbnail.png)
 
-myCompany - AudioOrange
+myCompany - AudioOrange :notes::tangerine:
 
 ![my Company image](images/AO-Logo-withShadow-Thumbnail.png)
 
