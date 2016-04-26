@@ -62,7 +62,7 @@ row2 cell 1 | row 2 cell 2
  - nested bullet
 
 ---
-:notes::tangerine: AudioOrange emotion icons [emoji-cheat-sheet](emoji-cheat-sheet.com)
+:notes::tangerine: AudioOrange emotion icons [emoji-cheat-sheet](http://emoji-cheat-sheet.com)
 
 Ideas & Questions: :bulb: :question: :grey_question: &nbsp;&nbsp;&nbsp; Success :thumbsup:  :star: :sparkles: :sunglasses: &nbsp;&nbsp;&nbsp; Warnings :bell: :warning: :watch: :no_entry_sign: :zzz:
 
