@@ -64,6 +64,6 @@ row2 cell 1 | row 2 cell 2
 ---
 :notes::tangerine: AudioOrange emotion icons [emoji-cheat-sheet](emoji-cheat-sheet.com)
 
-Ideas & Questions: :bulb: :question: :grey_question: &nbsp;&nbsp;&nbsp; Success :thumbsup: :sparkles: :sunglasses: &nbsp;&nbsp;&nbsp; Warnings :bell: :warning: :watch: :no_entry_sign:
+Ideas & Questions: :bulb: :question: :grey_question: &nbsp;&nbsp;&nbsp; Success :thumbsup:  :star: :sparkles: :sunglasses: &nbsp;&nbsp;&nbsp; Warnings :bell: :warning: :watch: :no_entry_sign: :zzz:
 
 Tech: :cd: :floppy_disk: :computer: &nbsp;&nbsp;&nbsp; Manage:  :orange_book: :paperclip: :date: :file_folder: :open_file_folder: :speech_balloon:
